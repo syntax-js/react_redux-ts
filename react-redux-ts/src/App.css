@@ -1,0 +1,7 @@
+.logo {
+  width: 150px;
+  height: 75px;
+  content: url("./logo.png");
+  margin: -5px 10px 10px 0;
+  float: left;
+}
