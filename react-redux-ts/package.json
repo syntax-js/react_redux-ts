@@ -1,6 +1,6 @@
 {
   "name": "react-redux-ts",
-  "homepage": "https://syntax-js.github.io/react_redux-ts",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
